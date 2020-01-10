@@ -13,7 +13,9 @@ In this notebook I have worked with Data Cleaning and Preprocessing. I encoded t
 * K- nearest neighbor
 * Logistic Regression
 * Support Vector Machines
-* Random Forestse 
+* Random Forests
+
+
 I have modelled and predicted values using the training and testing sets respectively. The accuracy and confusion matrices were calculated. I also plotted the ROC curves for all the classifiers and came up with results performance wise.
 
 ## Problem Statement 2
